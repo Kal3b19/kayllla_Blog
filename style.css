@@ -94,7 +94,7 @@ header.shadow.logo{
 .home{
     width: 100%;
     min-height: 440px;
-    background-image: url("/images/banner1.jpg");
+    background-image: url("images/banner1.jpg");
     background-repeat: none;
     background-size: 100%;
     display: grid;
